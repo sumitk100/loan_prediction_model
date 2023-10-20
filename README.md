@@ -1,1 +1,1 @@
-# loan_prediction_model
+Loan Prediction Model . the dataset contains the information of people applied for loans , by the help of few python libraries like numpy , pandas , matplotlib and using statistics function like logistic reression , i have created a prediction model that tells about to reject or approve the loan request on the basis of there given information and background check.
